@@ -8,3 +8,12 @@ which will help in tracking thebus’ss current location, helping the government
 to keep the records of the passengers travelled and the total fare amount generated, the application
 will also make the payments easier by making all the payments digital. So our main goal is to make
 bus travel an organised and comfortable mode of transport.
+
+## Tech Used
+
+- Android Studio
+- Java
+- Firebase
+- Google Cloud
+- Google Map
+- XML
