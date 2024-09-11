@@ -17,3 +17,18 @@ bus travel an organised and comfortable mode of transport.
 - Google Cloud
 - Google Map
 - XML
+
+### Bus_yatra for users
+
+<img width="483" alt="image" src="https://github.com/chirag63744/Bus_Yatra/assets/99059872/28515721-f208-4740-bb10-a7845c25a004">
+
+
+<img width="477" alt="image" src="https://github.com/chirag63744/Bus_Yatra/assets/99059872/9a90b9f7-cd9d-40b5-8d78-bff93906e416">
+
+
+<img width="479" alt="image" src="https://github.com/chirag63744/Bus_Yatra/assets/99059872/67d3ed0c-bf50-4ecd-a094-1f9bf75e06c8">
+
+<img width="481" alt="image" src="https://github.com/chirag63744/Bus_Yatra/assets/99059872/07924a70-9212-4e47-9f2a-d60d53208e42">
+<img width="477" alt="image" src="https://github.com/chirag63744/Bus_Yatra/assets/99059872/97df7e80-f689-4cd7-9c01-49998f3ad653">
+
+<img width="450" alt="image" src="https://github.com/chirag63744/Bus_Yatra/assets/99059872/b7dca8ff-0408-4777-bd15-30c41438d84e">
