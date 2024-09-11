@@ -20,7 +20,7 @@ bus travel an organised and comfortable mode of transport.
 
 ### Youtube Demo Link -: https://www.youtube.com/watch?v=7X66Rc0ag0s&feature=youtu.be
 
-
+### PPT Link -: https://docs.google.com/presentation/d/1QzxW9TD8gQZLVOO--S9Fy_MdTQ0oA_KGjkdODsWfmOk/edit?usp=sharing
 
 ### Bus_yatra for users
 
