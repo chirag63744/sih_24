@@ -1,0 +1,39 @@
+<!-- search_result_item.xml -->
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_margin="8dp"
+    android:padding="8dp"
+    app:cardCornerRadius="15dp"
+    app:cardElevation="10dp">
+
+    <!-- Customize the layout as needed for your search results -->
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <ImageView
+                android:id="@+id/resultIcon"
+                android:layout_width="48dp"
+                android:layout_height="48dp"
+                android:src="@drawable/education" />
+
+            <TextView
+                android:id="@+id/resultText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginStart="16dp"
+                android:fontFamily="@font/nunitosans_bold"
+                android:textColor="#121111"
+                android:textSize="16sp" />
+        </TableRow>
+
+    </TableLayout>
+
+</androidx.cardview.widget.CardView>

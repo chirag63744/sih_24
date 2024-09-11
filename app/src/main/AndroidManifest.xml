@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/logo"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.BusYatra_User"
+        tools:targetApi="31">
+
+        <!--
+             TODO: Before you run your application, you need a Google Maps API key.
+
+             To get one, follow the directions here:
+
+                https://developers.google.com/maps/documentation/android-sdk/get-api-key
+
+             Once you have your API key (it starts with "AIza"), define a new property in your
+             project's local.properties file (e.g. MAPS_API_KEY=Aiza...), and replace the
+             "YOUR_API_KEY" string in this file with "${MAPS_API_KEY}".
+        -->
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyBMq3hcm7sQfcmnDO-2MQ7R4tky6c-Zqws" />
+
+        <activity
+            android:name=".DirectionMaps"
+            android:exported="false"
+            android:label="@string/title_activity_direction_maps" />
+        <activity
+            android:name=".bus_location__with_bottom"
+            android:exported="false" />
+        <activity
+            android:name=".chatsonic"
+            android:exported="false" />
+        <activity
+            android:name=".FeedBack"
+            android:exported="false" />
+        <activity
+            android:name=".messageee"
+            android:exported="false" />
+        <activity
+            android:name=".Bus_location_original_without_bottm"
+            android:exported="false"
+            android:label="@string/title_activity_bus_location"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name=".Select_loc_Activity"
+            android:exported="false"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name=".Load_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".User_Account_Reg_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Sign_up_OTP_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Sign_up_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Home_Activity"
+            android:exported="false"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name=".OTP_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Login_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Welcome_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:windowSoftInputMode="adjustPan">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

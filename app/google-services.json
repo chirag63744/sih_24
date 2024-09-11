@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "238875494284",
+    "firebase_url": "https://busyatra-3481c-default-rtdb.firebaseio.com",
+    "project_id": "busyatra-3481c",
+    "storage_bucket": "busyatra-3481c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238875494284:android:d68b1f3300020e1f86b8a9",
+        "android_client_info": {
+          "package_name": "com.example.bus_yatra_users"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238875494284-l1ms4r8g6s3599832rchlvirjdad1ias.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bus_yatra_users",
+            "certificate_hash": "a65fd8a8640f9bae6b1681341fafd131e2398b7a"
+          }
+        },
+        {
+          "client_id": "238875494284-3ga2t24e0s9v3et79l3c9b4dc0esrahc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX3SlmgUHOgvNqMxiEe8uK5fMI4Tsh9wk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238875494284-3ga2t24e0s9v3et79l3c9b4dc0esrahc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238875494284:android:d4f98b3db47117c886b8a9",
+        "android_client_info": {
+          "package_name": "com.example.busyatra_driverscan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238875494284-vu1sm346dsso6hbvlqccqqg0p12s586f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.busyatra_driverscan",
+            "certificate_hash": "a65fd8a8640f9bae6b1681341fafd131e2398b7a"
+          }
+        },
+        {
+          "client_id": "238875494284-3ga2t24e0s9v3et79l3c9b4dc0esrahc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX3SlmgUHOgvNqMxiEe8uK5fMI4Tsh9wk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238875494284-3ga2t24e0s9v3et79l3c9b4dc0esrahc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238875494284:android:c10760d8eb7b30de86b8a9",
+        "android_client_info": {
+          "package_name": "com.example.busyatra_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238875494284-3ga2t24e0s9v3et79l3c9b4dc0esrahc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX3SlmgUHOgvNqMxiEe8uK5fMI4Tsh9wk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238875494284-3ga2t24e0s9v3et79l3c9b4dc0esrahc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
